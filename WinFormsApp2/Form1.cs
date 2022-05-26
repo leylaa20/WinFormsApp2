@@ -38,7 +38,6 @@ namespace WinFormsApp2
             Operation = "-";
             X = double.Parse(richTextBox1.Text);
             richTextBox1.Text = " ";
-            //Calculating("-");
         }
 
         private void mult_Click(object sender, EventArgs e)
